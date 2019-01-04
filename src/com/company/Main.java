@@ -18,4 +18,5 @@ public class Main {
 	    System.out.print(num+" ");
 	System.out.print('\n');
     }
+    
 }
