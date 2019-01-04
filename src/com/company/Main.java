@@ -11,7 +11,7 @@ public class Main {
 	System.out.print('\n');
 
 	
-	BubbleSort.sort(testArr);
+	BubbleSort.bubbleSort(testArr);
 
 	System.out.print("After: ");
 	for (int num:testArr)
